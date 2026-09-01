@@ -10,4 +10,4 @@ def annotate_iamge(image: Image) -> None:
     out = model.generate(**inputs)
     print(processor.decode(out[0], skip_special_tokens=True))
     
-annotate_iamge(Image.open("./data/horse.jpg"))
+annotate_iamge(Image.open("./data/5922.jpg"))
