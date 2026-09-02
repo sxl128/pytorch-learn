@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "diffusers>=0.40.0",
+    "imageio>=2.37.4",
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
     "torchvision>=0.28.0",
