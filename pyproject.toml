@@ -9,6 +9,7 @@ dependencies = [
     "imageio>=2.37.4",
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
+    "matplotlib>=3.10.9",
     "torchvision>=0.28.0",
     "transformers>=5.16.1",
 ]
